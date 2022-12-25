@@ -1,6 +1,6 @@
 name: "vipm-UninstallPackage"
 author: "NEVSTOP"
-description: "CICD Action for install VIPM package"
+description: "CICD Action to uninstall VIPM package"
 branding:
   icon: "anchor"
   color: "green"
